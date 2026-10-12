@@ -28,7 +28,7 @@ Aplicar conceitos de desenvolvimento web com PHP e Laravel, incluindo rotas, con
 
 Projeto acadêmico concluído e mantido como material de estudo e demonstração de conhecimento em desenvolvimento web.
 
-## Tecnologias Principais
+## Tecnologias principais
 
 - PHP
 - Laravel
@@ -38,7 +38,7 @@ Projeto acadêmico concluído e mantido como material de estudo e demonstração
 
 ## Autor
 
-Luis Ferreira
+Luis Fernando
 
 ## Observação
 
